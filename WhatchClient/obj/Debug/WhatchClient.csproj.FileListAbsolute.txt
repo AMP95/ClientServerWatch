@@ -1,0 +1,10 @@
+F:\Проекты\С#\webWhatch\WhatchServer\WhatchClient\bin\Debug\WhatchClient.exe.config
+F:\Проекты\С#\webWhatch\WhatchServer\WhatchClient\bin\Debug\WhatchClient.exe
+F:\Проекты\С#\webWhatch\WhatchServer\WhatchClient\bin\Debug\WhatchClient.pdb
+F:\Проекты\С#\webWhatch\WhatchServer\WhatchClient\obj\Debug\WhatchClient.csproj.AssemblyReference.cache
+F:\Проекты\С#\webWhatch\WhatchServer\WhatchClient\obj\Debug\WhatchClient.Form1.resources
+F:\Проекты\С#\webWhatch\WhatchServer\WhatchClient\obj\Debug\WhatchClient.Properties.Resources.resources
+F:\Проекты\С#\webWhatch\WhatchServer\WhatchClient\obj\Debug\WhatchClient.csproj.GenerateResource.cache
+F:\Проекты\С#\webWhatch\WhatchServer\WhatchClient\obj\Debug\WhatchClient.csproj.CoreCompileInputs.cache
+F:\Проекты\С#\webWhatch\WhatchServer\WhatchClient\obj\Debug\WhatchClient.exe
+F:\Проекты\С#\webWhatch\WhatchServer\WhatchClient\obj\Debug\WhatchClient.pdb

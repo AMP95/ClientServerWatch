@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatchServer", "WhatchServer\WhatchServer.csproj", "{B48504BB-FEAA-43B6-872D-7E864B29ACE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatchClient", "WhatchClient\WhatchClient.csproj", "{321DA402-A15B-4F80-BACF-DB2047159BBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B48504BB-FEAA-43B6-872D-7E864B29ACE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B48504BB-FEAA-43B6-872D-7E864B29ACE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B48504BB-FEAA-43B6-872D-7E864B29ACE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B48504BB-FEAA-43B6-872D-7E864B29ACE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{321DA402-A15B-4F80-BACF-DB2047159BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{321DA402-A15B-4F80-BACF-DB2047159BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{321DA402-A15B-4F80-BACF-DB2047159BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{321DA402-A15B-4F80-BACF-DB2047159BBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {372DBC79-B133-4FAB-84E1-A5044DA00509}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+F:\Проекты\С#\webWhatch\WhatchServer\WhatchServer\obj\Debug\WhatchServer.csproj.CoreCompileInputs.cache
+F:\Проекты\С#\webWhatch\WhatchServer\WhatchServer\bin\Debug\WhatchServer.exe.config
+F:\Проекты\С#\webWhatch\WhatchServer\WhatchServer\bin\Debug\WhatchServer.exe
+F:\Проекты\С#\webWhatch\WhatchServer\WhatchServer\bin\Debug\WhatchServer.pdb
+F:\Проекты\С#\webWhatch\WhatchServer\WhatchServer\obj\Debug\WhatchServer.exe
+F:\Проекты\С#\webWhatch\WhatchServer\WhatchServer\obj\Debug\WhatchServer.pdb
